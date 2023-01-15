@@ -1,3 +1,4 @@
+alert('esto es un programa para hacer un triagulo con #')
 let input = Number(prompt('ingresar numero de lineas'));
 let output = '#';
 let numero = 1;

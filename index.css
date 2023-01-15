@@ -1,0 +1,8 @@
+body{
+    padding: 1rem;
+    background: linear-gradient(0deg, #111 , #333);
+    color:azure;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
